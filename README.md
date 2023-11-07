@@ -2,7 +2,7 @@
 
 ## Repository Structure
 
-- **resources folder**: Contains the resources required for the Snake game.
+- **Resources folder**: Contains the resources required for the Snake game.
 - **Installer Pack**: The folder that contains the following files:
   - **App installer icon**: The icon used for the application installer.
   - **Installer**: The installer file that can be run on any Windows laptop to install the application.
