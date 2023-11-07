@@ -1,9 +1,4 @@
-# Snake-Game
 # ReadMe - **WARNING**
-
-
-
-
 
 
 
