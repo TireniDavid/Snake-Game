@@ -6,13 +6,15 @@
 - **Installer Pack**: The folder that contains the following files:
   - **App installer icon**: The icon used for the application installer.
   - **Installer**: The installer file that can be run on any Windows laptop to install the application.
+- **Snake_Game.py**: The snake game source code in python (python file)
+- **ReadME FILE**
 
 
 # ReadMe - **WARNING**
 
 # **NEED TO DISABLE ANTIVIRUS PROTECTION** 
 
-# **Temporary Antivirus Disable Instructions**
+-**Temporary Antivirus Disable Instructions**
 
 **Important**: Disabling your antivirus software is a security-sensitive action and should only be done when you are certain that the file you are dealing with is safe and comes from a trusted source. Always re-enable your antivirus after completing the task.
 
