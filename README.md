@@ -3,19 +3,14 @@
 ## Repository Structure
 
 - **resources folder**: Contains the resources required for the Snake game.
-- **main.py**: The main Python file for the Snake game.
-
-# Installer Pack
-
-The installer pack contains the following files:
-
-- **App installer icon**: The icon used for the application installer.
-- **Installer**: The installer file that can be run on any Windows laptop to install the application.
+- **Installer Pack**: The folder that contains the following files:
+  - **App installer icon**: The icon used for the application installer.
+  - **Installer**: The installer file that can be run on any Windows laptop to install the application.
 
 
 # ReadMe - **WARNING**
 
-# ReadMe - **WARNING** **NEED TO DISABLE ANTIVIRUS PROTECTION** 
+# **NEED TO DISABLE ANTIVIRUS PROTECTION** 
 
 # **Temporary Antivirus Disable Instructions**
 
